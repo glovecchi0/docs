@@ -14,7 +14,7 @@ Take a look [here](https://developer.hashicorp.com/terraform/intro) to understan
 
 Following this model, it will be possible to create the infrastructure on the Cloud Provider or Hypervisor that you use in your Company, install Kubernetes, if you don't use managed clusters, and have the Security Platform in a single step and using a single tool.
 
-##### Fully IaC high-level example
+#### Fully IaC high-level example
 
 - Infrastructure   - [Harvester](https://github.com/rancherlabs/harvester-equinix-terraform/blob/main/README.md)
 - Virtual Machines - [Harvester](https://registry.terraform.io/modules/terraform-harvester-modules/vm/harvester/latest)
@@ -37,7 +37,7 @@ $ tree tf-projects/neuvector/
 └── variables.tf
 ```
 
-##### Simple custom values.yaml file
+#### Simple custom values.yaml file
 
 ```
 controller:
