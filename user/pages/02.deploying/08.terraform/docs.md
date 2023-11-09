@@ -19,7 +19,7 @@ Following this model, it will be possible to create the infrastructure on the Cl
 - Infrastructure   - [Harvester](https://github.com/rancherlabs/harvester-equinix-terraform/blob/main/README.md)
 - Virtual Machines - [Harvester](https://registry.terraform.io/modules/terraform-harvester-modules/vm/harvester/latest)
 - Kubernetes       - [RKE2](https://registry.terraform.io/modules/rancher/rke2-install/null/latest)
-- NeuVector        - helm\_release - A detailed explanation will follow below
+- NeuVector        - [helm\_release](https://github.com/glovecchi0/docs/blob/feature/terraform-deploy-doc/user/pages/02.deploying/08.terraform/docs.md#terraform-main-file)
 
 ### NeuVector TF files
 
